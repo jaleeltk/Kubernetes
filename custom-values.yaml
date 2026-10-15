@@ -1,0 +1,4 @@
+# Example values file for the podinfo chart
+replicaCount: 3
+ui:
+  message: "Hello from Abdul's Helm lab"
