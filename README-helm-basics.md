@@ -274,7 +274,7 @@ Result: 2 pods and **REVISION 2**. The existing pod kept running; Helm only adde
 
 ## Step 8 – Change settings with a values file
 
-Uses [`examples/custom-values.yaml`](examples/custom-values.yaml):
+Uses [custom-values.yaml):
 
 ```yaml
 replicaCount: 3
